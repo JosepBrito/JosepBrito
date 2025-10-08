@@ -12,7 +12,6 @@ Ingeniero de Software especializado en Inteligencia Artificial. Experiencia en d
   - 🤖 Inteligencia Artificial y modelos de ML
   - ☁️ Cloud Computing (GCP, AWS y Azure)
   - 🔧 DevOps y automatización
-
 - 👯 Me encantaría colaborar en proyectos de Data Science, ML Engineering e Inteligencia Artificial.
 - 💼 Abierto a oportunidades como Data Analyst, Data Scientist o ML Engineer (remoto o presencial).
 - ✔ Pregúntame sobre IA, Machine Learning, Cloud Computing o Python - ¡Encantado de ayudar!
