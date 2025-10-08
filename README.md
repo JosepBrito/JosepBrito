@@ -17,29 +17,28 @@ Soy Ingeniero de Software especializado en Inteligencia Artificial, egresado de 
 - 💼 Abierto a oportunidades como Data Analyst, Data Scientist o ML Engineer (remoto o presencial).
 - ✔ Pregúntame sobre IA, Machine Learning, Cloud Computing o Python - ¡Encantado de ayudar!
 - Fuera de la tecnología, disfruto 📚 leer sobre tecnologías emergentes, 🎮 videojuegos y explorar nuevas herramientas de IA.
-<br clear="right"/>
-
-## Mis habilidades incluyen
-<h4> Languages </h4>
-- Python
-- SQL Server
-- MongoDB Atlas
-- RAG | Promp Engineering 
-- GCP
-- AZURE
-
-<h4> Otras herramientas y tecnologías </h4>
 
 
+## 🧠 Habilidades Técnicas
+🖥️ **Lenguajes:**  
+Python (Intermedio) · SQL (Intermedio) · Bash/Shell (Básico)  
+
+🤖 **IA & ML:**  
+LangChain · LangGraph · RAG · Prompt Engineering · Gemini 2.5 Pro  
+
+📊 **Análisis de Datos:**  
+Pandas · NumPy · Matplotlib · Excel (Intermedio) · Power BI  
+
+☁️ **Cloud:**  
+GCP (Básico) · Azure (Básico)  
+
+🛠️ **Bases de Datos y Herramientas:**  
+SQL Server (Intermedio) · MongoDB Atlas (Básico) · Git · GitHub · Streamlit
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ffcc&size=24&center=true&vCenter=true&width=600&height=100&lines=DevOps+|+IA+|+Ciencia+de+Datos;Análisis+de+Datos+|+Cloud+|+Python">
+</a>
 </p>
 
 
-
-
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
