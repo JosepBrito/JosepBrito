@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hi , I'm Josep Brito </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-Soy Ingeniero de Software especializado en Inteligencia Artificial, egresado de SENATI. Tengo experiencia práctica como Machine Learning Engineer, desarrollando agentes de IA utilizando Google Cloud Platform (GCP) e integrando APIs externas como LinkedIn. Me apasiona construir soluciones inteligentes que resuelvan problemas reales y generen valor empresarial.
+Ingeniero de Software especializado en Inteligencia Artificial. Experiencia en desarrollo de agentes de IA con LangChain y GCP, integrando APIs externas. Apasionado por crear soluciones inteligentes que generen valor real.
 
 - 🚀 Actualmente enfocado en:
   - 🐍 Python para análisis de datos y machine learning
