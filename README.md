@@ -26,7 +26,7 @@ Python (Intermedio) · SQL (Intermedio) · Bash/Shell (Básico)
 LangChain · LangGraph · RAG · Prompt Engineering · Gemini 2.5 Pro  
 
 📊 **Análisis de Datos:**  
-Pandas · NumPy · Matplotlib · Excel (Intermedio) · Power BI  
+Pandas · NumPy · Excel (Intermedio) · Power BI  
 
 ☁️ **Cloud:**  
 GCP (Básico) · Azure (Básico)  
