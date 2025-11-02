@@ -18,7 +18,7 @@ Ingeniero de Software recién graduado, apasionado por transformar datos en insi
 ## My Skills Include
 - **Lenguajes**: Python (Pandas, NumPy) · SQL
 - **Visualización**: Power BI · Excel (tablas dinámicas, gráficos avanzados)
-- **Herramientas**: Jupyter Notebooks · Git & GitHub
+- **Herramientas**: Jupyter Notebooks · Git & GitHub . Kaggle . Google Colab
 - **IA Generativa**: LangChain · LangGraph · RAG · Prompt Engineering
 - **LLMs**: Gemini 2.5 Pro · Integración de APIs
 - **Cloud**: GCP (básico) · Azure (básico)
