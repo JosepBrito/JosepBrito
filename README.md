@@ -6,36 +6,56 @@
 
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-Sobre Mí <br>
-Ingeniero de Software recién graduado, apasionado por transformar datos en insights accionables y construir soluciones inteligentes. Actualmente busco mi primera oportunidad profesional como Data Analyst para desarrollar fundamentos sólidos en análisis de datos, mientras avanzo hacia mi objetivo de convertirme en AI Engineering.
+## 👋 Sobre Mí
 
-🎓 Ingeniero de Software con especialización en Inteligencia Artificial | Recién graduado <br>
-🚀 Iniciando mi carrera profesional: Data Analysis → Data Science → AI Engineering <br>
-📍 Lima, Perú | Disponible para remoto o presencial <br>
-💼 Buscando oportunidades como: Data Analyst | Junior Data Analyst | Practicante de Analista de Datos <br>
-🚀 Visión a largo plazo: Evolucionar hacia Data Science y ML Engineering <br>
+Ingeniero de Software recién graduado, apasionado por la Ciencia de Datos y la Inteligencia Artificial. 
+Enfocado en transformar datos en insights accionables mediante análisis exploratorio y modelos de Machine Learning.
 
-## My Skills Include
-- **Lenguajes**: Python (Pandas, NumPy) · SQL
-- **Visualización**: Power BI · Excel (tablas dinámicas, gráficos avanzados)
-- **Herramientas**: Jupyter Notebooks · Git & GitHub . Kaggle . Google Colab
-- **IA Generativa**: LangChain · LangGraph · RAG · Prompt Engineering
-- **LLMs**: Gemini 2.5 Pro · Integración de APIs
-- **Cloud**: GCP (básico) · Azure (básico)
-- **Interfaces**: Streamlit
+🎓 **Ingeniero de Software** con especialización en Inteligencia Artificial  
+🚀 **Trayectoria profesional:** Data Analysis → Data Science → AI Engineering  
+📍 **Lima, Perú** | 100% remoto  
+💼 **Buscando:** Pasantías en Ciencia de Datos | Ciencia de Datos | Practicante de Ciencia de Datos
+🧠 **Áreas de interés:** Machine Learning, Big Data, Cloud Computing, IA Generativa
 
-## ¿Por qué Data Analysis?
-Mi camino hacia la Ingeniería de IA comienza con fundamentos sólidos en análisis de datos porque:
-- 📊 Entender los datos es el primer paso para construir buenos modelos de ML
-- 🧹 Limpieza y preparación representa el 80% del trabajo en ciencia de datos
-- 💡 Generar insights me ayuda a desarrollar pensamiento analítico crítico
-- 🎯 Comunicar resultados es esencial para llevar modelos de IA a producción
+## 🎯 Actualmente
+
+- 🔬 Desarrollando proyectos de Machine Learning, Analisis de Datos y Ciencia de Datos
+- 📚 Estudiando: Scikit-learn, TensorFlow, Apache Spark
+- 💻 Fortaleciendo habilidades en: Análisis exploratorio, modelado predictivo y visualización de datos
+
+## 🛠️ Habilidades Técnicas
+
+### 💻 Lenguajes de Programación
+`Python` `SQL` `Bash/Shell`
+
+### 🤖 Ciencia de Datos & Machine Learning
+- **Librerías ML:** Scikit-learn · TensorFlow
+- **Algoritmos:** Supervisados · No supervisados · Regresión · Clasificación · Clustering
+- **Análisis de Datos:** Pandas · NumPy
+- **Visualización:** Matplotlib · Seaborn · Power BI · Excel
+- **Big Data:** Apache Spark
+
+### 🧠 IA Generativa & LLMs
+`LangChain` `LangGraph` `RAG` `Prompt Engineering` `Gemini 2.5 Pro`
+
+### ☁️ Cloud & Herramientas
+- **Cloud:** Google Cloud Platform (Vertex AI, Cloud Run, Storage) · Microsoft Azure (App Service)
+- **DevOps:** Git · GitHub · Docker
+- **Desarrollo:** Jupyter Notebooks · VS Code · Streamlit · Google Colab · Kaggle
+
+###  Base de Datos
+`Sql Sever` `MongoDB Atlas`
 
 ## Fuera del Código
 Cuando no estoy analizando datos o experimentando con IA:
 - 📚 Leo sobre tecnologías emergentes y tendencias en IA
 - 🎮 Juego videojuegos (¡y analizo sus mecánicas!)
 - 🔧 Exploro nuevas herramientas de IA y automatización
+
+## 📫 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wjosepbrito)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/devjosep)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
