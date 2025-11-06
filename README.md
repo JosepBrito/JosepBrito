@@ -14,7 +14,7 @@ Enfocado en transformar datos en insights accionables mediante análisis explora
 🎓 **Ingeniero de Software** con especialización en Inteligencia Artificial  
 🚀 **Trayectoria profesional:** Data Analysis → Data Science → AI Engineering  
 📍 **Lima, Perú** | 100% remoto  
-💼 **Buscando:** Pasantías en Ciencia de Datos | Ciencia de Datos | Practicante de Ciencia de Datos
+💼 **Buscando:** Pasantías en Ciencia de Datos | Ciencia de Datos | Practicante de Ciencia de Datos <br>
 🧠 **Áreas de interés:** Machine Learning, Big Data, Cloud Computing, IA Generativa
 
 ## 🎯 Actualmente
