@@ -8,7 +8,7 @@
 
 ## 👋 Sobre Mí
 
-Ingeniero de Software recién graduado, apasionado por la Ciencia de Datos y la Inteligencia Artificial. Actualmente enfocado en dominar el análisis de datos como base fundamental para construir mi carrera hacia la Ciencia de Datos e IA, transformando datos en insights accionables mediante análisis exploratorio, visualización y storytelling con datos.
+Ingeniero de Software con Inteligencia Artificial recién graduado, apasionado por la Ciencia de Datos y la Inteligencia Artificial. Actualmente enfocado en dominar el análisis de datos como base fundamental para construir mi carrera hacia la Ciencia de Datos e IA, transformando datos en insights accionables mediante análisis exploratorio, visualización y storytelling con datos.
 
 🎓 **Ingeniero de Software** con especialización en Inteligencia Artificial  
 🚀 **Trayectoria profesional:** Data Analysis → Data Science → AI Engineering  
