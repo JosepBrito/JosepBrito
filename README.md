@@ -8,19 +8,18 @@
 
 ## 👋 Sobre Mí
 
-Ingeniero de Software recién graduado, apasionado por la Ciencia de Datos y la Inteligencia Artificial. 
-Enfocado en transformar datos en insights accionables mediante análisis exploratorio y modelos de Machine Learning.
+Ingeniero de Software recién graduado, apasionado por la Ciencia de Datos y la Inteligencia Artificial. Actualmente enfocado en dominar el análisis de datos como base fundamental para construir mi carrera hacia la Ciencia de Datos e IA, transformando datos en insights accionables mediante análisis exploratorio, visualización y storytelling con datos.
 
 🎓 **Ingeniero de Software** con especialización en Inteligencia Artificial  
 🚀 **Trayectoria profesional:** Data Analysis → Data Science → AI Engineering  
 📍 **Lima, Perú** | 100% remoto  
-💼 **Buscando:** Pasantías en Ciencia de Datos | Ciencia de Datos | Practicante de Ciencia de Datos <br>
-🧠 **Áreas de interés:** Machine Learning, Big Data, Cloud Computing, IA Generativa
+💼 **Buscando:** Pasantías en Analisis de Datos | Analisis de Datos | Practicante de Analisis de Datos <br>
+🧠 **Áreas de interés:** Análisis Exploratorio de Datos (EDA), Visualización de Datos, SQL, Python (Pandas, NumPy), Machine Learning, Big Data, Cloud Computing, IA Generativa
 
 ## 🎯 Actualmente
 
-- 🔬 Desarrollando proyectos de Machine Learning, Analisis de Datos y Ciencia de Datos
-- 📚 Estudiando: Scikit-learn, TensorFlow, Apache Spark
+- 🔬 Desarrollando proyectos de Analisis de Datos y Ciencia de Datos
+- 📚 Estudiando: Google Skill Bost (Analisis de Datos)
 - 💻 Fortaleciendo habilidades en: Análisis exploratorio, modelado predictivo y visualización de datos
 
 ## 🛠️ Habilidades Técnicas
@@ -28,12 +27,9 @@ Enfocado en transformar datos en insights accionables mediante análisis explora
 ### 💻 Lenguajes de Programación
 `Python` `SQL` `Bash/Shell`
 
-### 🤖 Ciencia de Datos & Machine Learning
-- **Librerías ML:** Scikit-learn · TensorFlow
-- **Algoritmos:** Supervisados · No supervisados · Regresión · Clasificación · Clustering
-- **Análisis de Datos:** Pandas · NumPy
-- **Visualización:** Matplotlib · Seaborn · Power BI · Excel
-- **Big Data:** Apache Spark
+### 🤖 Analisis de Datos
+- **Análisis de Datos:** Pandas · NumPy · Excel
+- **Visualización:** Matplotlib · Power BI  
 
 ### 🧠 IA Generativa & LLMs
 `LangChain` `LangGraph` `RAG` `Prompt Engineering` `Gemini 2.5 Pro`
