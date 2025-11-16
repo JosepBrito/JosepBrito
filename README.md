@@ -20,7 +20,7 @@ Ingeniero de Software con Inteligencia Artificial recién graduado, apasionado p
 
 - 🔬 Desarrollando proyectos de Analisis de Datos y Ciencia de Datos
 - 📚 Estudiando: Google Skill Bost (Analisis de Datos)
-- 💻 Fortaleciendo habilidades en: Análisis exploratorio, modelado predictivo y visualización de datos
+- 💻 Fortaleciendo habilidades en: Análisis exploratorio y visualización de datos
 
 ## 🛠️ Habilidades Técnicas
 
