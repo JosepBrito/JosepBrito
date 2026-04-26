@@ -22,7 +22,7 @@ Mi objetivo es claro: crecer como AI Engineer construyendo soluciones que resuel
 `Python` `SQL` `Bash/Shell`
 
 ### 🤖 Data & Visualización
-- `Pandas` `NumPy` `Matplotlib`
+`Pandas` `NumPy` `Matplotlib`
 
 ### 🧠 IA Generativa & LLMs
 `LangChain` `LangGraph` `RAG` `Prompt Engineering` `Gemini 2.5 Pro`
