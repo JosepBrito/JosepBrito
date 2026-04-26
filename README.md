@@ -8,28 +8,22 @@
 
 ## 👋 Sobre Mí
 
-Ingeniero de Software con Inteligencia Artificial recién graduado, apasionado por la Ciencia de Datos y la Inteligencia Artificial. Actualmente enfocado en dominar el análisis de datos como base fundamental para construir mi carrera hacia la Ciencia de Datos e IA, transformando datos en insights accionables mediante análisis exploratorio, visualización y storytelling con datos, orientados a la automatización, optimización de procesos y soporte a la toma de decisiones.
+Desarrollador con experiencia práctica en Inteligencia Artificial, enfocado en la construcción de agentes IA y sistemas inteligentes. Durante mis prácticas desarrollé un agente IA end-to-end usando Python, LangChain y LangGraph con técnicas RAG y Prompt Engineering.
+ 
+Mi objetivo es claro: crecer como AI Engineer construyendo soluciones que resuelvan problemas reales.
 
-🎓 **Ingeniero de Software** con especialización en Inteligencia Artificial  
-🚀 **Trayectoria profesional:** Data Analysis → Data Science → AI Engineering  
-📍 **Lima, Perú** | 100% remoto  
-💼 **Buscando:** Pasantías en Analisis de Datos | Analisis de Datos | Practicante de Analisis de Datos <br>
-🧠 **Áreas de interés:** Análisis Exploratorio de Datos (EDA), Visualización de Datos, SQL, Python (Pandas, NumPy), Machine Learning, Big Data, Cloud Computing, IA Generativa, Automatización de procesos.
-
-## 🎯 Actualmente
-
-- 🔬 Desarrollando proyectos de Analisis de Datos y Ciencia de Datos
-- 📚 Estudiando: Google Skill Bost (Analisis de Datos)
-- 💻 Fortaleciendo habilidades en: Análisis exploratorio y visualización de datos
+🎓 Ingeniería de Software con IA — SENATI 
+🎓 Ingeniería de Software — Universidad Autónoma del Perú (Cursando actualmente) 
+📍 Lima, Perú
 
 ## 🛠️ Habilidades Técnicas
 
 ### 💻 Lenguajes de Programación
 `Python` `SQL` `Bash/Shell`
 
-### 🤖 Analisis de Datos
-- **Análisis de Datos:** Pandas · NumPy · Excel
-- **Visualización:** Matplotlib · Power BI  
+### 🤖 Data & Visualización
+- **Análisis de Datos:** Pandas · NumPy 
+- **Visualización:** Matplotlib   
 
 ### 🧠 IA Generativa & LLMs
 `LangChain` `LangGraph` `RAG` `Prompt Engineering` `Gemini 2.5 Pro`
